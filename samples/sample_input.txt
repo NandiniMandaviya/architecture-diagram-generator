@@ -1,0 +1,16 @@
+
+Build a web application that allows users to upload documents
+and search their contents.
+
+The application should use Python and FastAPI.
+Deploy the application on a Linux virtual machine.
+
+Use PostgreSQL as the database for storing document metadata.
+The application should expose REST APIs over HTTPS.
+
+The application should communicate with the PostgreSQL
+database to retrieve and store document information.
+
+Generate a clean architecture diagram with a white background,
+clearly labelled components, and directional arrows showing
+communication between the application and database.
